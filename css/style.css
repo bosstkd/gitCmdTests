@@ -13,7 +13,7 @@
 .row-spc{
     margin: 0 auto!important;
     font-family: 'Roboto Slab', serif;
-    font-size: 22px;
+    font-size: 15px;
    
 }
 i:hover{
@@ -21,7 +21,7 @@ i:hover{
     cursor: pointer;
 }
 .icon-scp{
-    font-size: 15px;
+    font-size: 13px;
     color: white;
     margin: 5px 5px;
     
@@ -70,7 +70,7 @@ margin-bottom: 35px;
 .nav-list .menu {
     color: #333333;
     font-family: 'Roboto Slab', serif;
-    font-size: 17px;
+    font-size: 14px;
     line-height: 26px;
     padding: 0 20px;
     text-decoration: none;        
